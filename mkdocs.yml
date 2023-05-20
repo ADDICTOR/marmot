@@ -1,0 +1,6 @@
+site_name: Marmot平台开发人员指南
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
+# theme: readthedocs
